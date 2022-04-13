@@ -1,3 +1,5 @@
+# Bundestags protocol splitter
+
 > **Note**: This script currently only works with the protocols of the 18. Wahlperiode.
 
 This script splits Bundestags protocols into their table of contents (tos) and main part. The Anlagen part is currently omitted.
